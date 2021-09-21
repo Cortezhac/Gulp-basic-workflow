@@ -1,0 +1,25 @@
+{
+  "name": "gulp-basic-workflow",
+  "version": "1.0.0",
+  "description": "'Basic workflow make with gulp'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cortezhac/Gulp-basic-workflow.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "javascript",
+    "html"
+  ],
+  "author": "Irvin Cortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cortezhac/Gulp-basic-workflow/issues"
+  },
+  "homepage": "https://github.com/Cortezhac/Gulp-basic-workflow#readme"
+}
