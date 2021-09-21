@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/Cortezhac/Gulp-basic-workflow/issues"
   },
-  "homepage": "https://github.com/Cortezhac/Gulp-basic-workflow#readme"
+  "homepage": "https://github.com/Cortezhac/Gulp-basic-workflow#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.0"
+  }
 }
